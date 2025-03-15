@@ -1,6 +1,4 @@
-## Hi there 👋
-# sneha
-Hey! This is my profile 
+
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">Aspiring software Engineering |Ai & Data Enthusiast</h3>
 
